@@ -1,4 +1,5 @@
 # IoT Vehicle Tracking & Theft Prevention System (Aegis-Track)
+<img width="1918" height="908" alt="Screenshot 2026-06-13 220409" src="https://github.com/user-attachments/assets/d36dca30-4bdf-49fc-9939-6604d133d020" />
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
 [![Platform Compatibility](https://img.shields.io/badge/Platform-ESP32%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux-blue.svg)]()
